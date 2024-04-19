@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vedant Sahu</h1>
+<h1 align="center">Hi 👋, I'm *Vedant Sahu*</h1>
 <h3 align="center">B.Tech (CSE) Student | A passionate Mern developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"></br></br>
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 <a href="https://github.com/vedantxtrem" target="_blank">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github">
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
