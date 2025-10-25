@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"></br></br>
 
 
-- 🌱 I’m currently learning *Mern Stack Development*
+- 🌱 I’m Full stack web Devloper
 
-- 📫 How to reach me *verdant.sahu1993@gmail.com*
+- 📫 How to reach me *vedants0909@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
